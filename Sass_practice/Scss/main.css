@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
+}
+body h1 {
+  color: red;
+}
+body:hover {
+  background: red;
+}
+body:hover h1 {
+  color: white;
+}/*# sourceMappingURL=main.css.map */
